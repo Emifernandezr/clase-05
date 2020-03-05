@@ -1,0 +1,25 @@
+.container {
+    padding: 35px;
+}
+.card {
+    border-radius: 5px;
+    box-shadow: 0 0 5px #333;
+    height: 550px;
+    overflow: hidden;
+    width: 350px;
+}
+.header-img {
+    max-width: 100%;
+}
+.titulo {
+    margin-top: 0;
+}
+.card-content {
+    padding: 25px;
+}
+.footer {
+    padding: 20px;
+}
+.footer-link img {
+    width: 50px;
+}
